@@ -1,6 +1,6 @@
-TMDB
+##TMDB
 
-A Flutter PRoject that takes year as input and gives all the movies in the year using tmdb api.
+A Flutter Project that takes year as input and gives all the movies in the year using tmdb api.
 
 ## Getting Started
 
